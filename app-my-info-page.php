@@ -27,7 +27,7 @@
        <img src="{{{data.photo}}}" alt="MyPhoto">
      </div>
      <h3>{{{data.name}}}</h3>
-     <p><strong>Name</strong>: {{{data.address}}}</p>
+     <p><strong>Address</strong>: {{{data.address}}}</p>
      <p><strong>Email</strong>: {{{data.email}}}</p>
      <p><strong>Phone</strong>: {{{data.phone}}}</p>
    </div>
